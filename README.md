@@ -1,0 +1,1 @@
+This is the first application for testing rails app.
