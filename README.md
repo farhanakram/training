@@ -1,1 +1,1 @@
-This is the first application for testing rails app.
+This is the first application for testing rails app. Just Checking
